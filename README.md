@@ -90,4 +90,4 @@ server.listen(8888);
 
 - open command line, and `cd` to this folder
 - run command `node server.js`
-- Open the browser, and type: [“http://localhost:8888”](http://localhost:8888)
+- Open the browser, and type: [http://localhost:8888](http://localhost:8888)
